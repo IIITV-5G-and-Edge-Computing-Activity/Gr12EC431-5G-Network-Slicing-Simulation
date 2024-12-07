@@ -1,4 +1,16 @@
 # Gr12EC431
+
+Group Team Members: 
+
+- **Abhishek Govind-202111002**
+
+- **Aniruddha Kajave-202111006**
+
+- **Ashutosh Khatri-202111014**
+
+- **Prathamesh Pawar-202111062**
+
+
 # 5G Network Slicing Simulation
 
 Welcome to the **5G Network Slicing Simulation Project**! This repository contains a simulation framework designed to explore the concept of 5G network slicing, where multiple logical networks are created over a common physical infrastructure. The project leverages cutting-edge techniques to simulate the dynamic allocation of resources across different network slices, optimizing for various performance metrics.
